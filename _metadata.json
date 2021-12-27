@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "FreakyPunk #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "0c59c09c8016d762a1b7dfc2654fa6d488524034",
+    "edition": 1,
+    "date": 1640563298532,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "93d80584282038b7343e6b288e0f55fccf476fe2",
+    "edition": 2,
+    "date": 1640563298568,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "749274ce8020166f2eca1a479e6dc24637e170f2",
+    "edition": 3,
+    "date": 1640563298602,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "a4cb2912b2bbdafd0a9029641fc991d5dc67b2f4",
+    "edition": 4,
+    "date": 1640563298636,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "fa178531caa9ab0c6619a034061dd097afadea81",
+    "edition": 5,
+    "date": 1640563298671,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "71456208e6c2d5abe6dbaf56d4de1253b7eeba1e",
+    "edition": 6,
+    "date": 1640563298705,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "f36bf9c4ecb03d3b04f9472cc8e69ae431de771b",
+    "edition": 7,
+    "date": 1640563298739,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "3f18e607d189328eb27e01de1eedb9d961750472",
+    "edition": 8,
+    "date": 1640563298775,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "9bca1370aed70ef09dcb471e035cb60ac01a4568",
+    "edition": 9,
+    "date": 1640563298810,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "d8beef5a989448979f96366ab18038262323478d",
+    "edition": 10,
+    "date": 1640563298845,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "c587a567439820353eb140703a11bed962420258",
+    "edition": 11,
+    "date": 1640563298880,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "612db789165a62f299fc36ec9f6577546aeb2cd8",
+    "edition": 12,
+    "date": 1640563298916,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "b0bed8bb5cb6691486d0068bac30e2bdf6cae035",
+    "edition": 13,
+    "date": 1640563298951,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "da3f5a6728b1e675a077a187d219b0c7ad44d092",
+    "edition": 14,
+    "date": 1640563298987,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "0489cfde60903a8a53226b8aab9afdeb6a09eadb",
+    "edition": 15,
+    "date": 1640563299025,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "53cf249caa732c8b7adee8ca8f93eb45783facbc",
+    "edition": 16,
+    "date": 1640563299060,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "ba09c63c9f271460a3ccba2642e04cd013c03771",
+    "edition": 17,
+    "date": 1640563299094,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "4b7f75843898f8854b9b76ad9f2be5ac21ca0da8",
+    "edition": 18,
+    "date": 1640563299128,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "211f567ccb58fc97312d3dea9339ee7f6cfa860f",
+    "edition": 19,
+    "date": 1640563299162,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "44b2d40acf63c3d7b9b6549de20a38dd9f87b8b9",
+    "edition": 20,
+    "date": 1640563299196,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "bac45fbb992047a0a3dad44a4321060d007826f2",
+    "edition": 21,
+    "date": 1640563299231,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "9377f80695df9605cba380f058434ab0e6c4f1d3",
+    "edition": 22,
+    "date": 1640563299265,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "d8d2a9ac1e03090005a31d7ea8a274331e58d31f",
+    "edition": 23,
+    "date": 1640563299300,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "8aa434b749e156f881d81f08508d6dca18999783",
+    "edition": 24,
+    "date": 1640563299334,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "a08c65806615505e70ee985f9426ccba1aa977c2",
+    "edition": 25,
+    "date": 1640563299369,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "ecc475970b13674eb17b947798a85ab53f62200f",
+    "edition": 26,
+    "date": 1640563299403,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "389c71df4ecbfbc416100eda53e2c91b391e9e56",
+    "edition": 27,
+    "date": 1640563299438,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "655219ca7de34e041d2167955671a6001a659636",
+    "edition": 28,
+    "date": 1640563299473,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "7a34a1941fc274ca2d03d2dfec8e7867f2310465",
+    "edition": 29,
+    "date": 1640563299507,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "8ce4da616920c484e5943a49ed84a978e64866e8",
+    "edition": 30,
+    "date": 1640563299542,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "a33dcea58f9dd32a2edb094a020dc995e70ee22f",
+    "edition": 31,
+    "date": 1640563299594,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "1e5947df30789d2c00396c22d3a89017107284de",
+    "edition": 32,
+    "date": 1640563299628,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #33",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "16425cf834a49a007db8d5cf30f885947053d091",
+    "edition": 33,
+    "date": 1640563299663,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #34",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "b29104c99cee33c2779196815aaf29d14a737c1b",
+    "edition": 34,
+    "date": 1640563299697,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #35",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "746f67d5612e7d6ab995c03f17fd70602cda788d",
+    "edition": 35,
+    "date": 1640563299731,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #36",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "b43169483dd50908c516cb9597a782eca4040841",
+    "edition": 36,
+    "date": 1640563299765,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #37",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "09924fea2b4a299aac9c2c5131198b236a11f019",
+    "edition": 37,
+    "date": 1640563299799,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #38",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "2abcc9b678fea9d403895ab44496bc97cda93382",
+    "edition": 38,
+    "date": 1640563299833,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #39",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "2924e4825b8b66c38273794f15fab3a04b72f8ad",
+    "edition": 39,
+    "date": 1640563299867,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #40",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "c35576e3527dbe0c78d8e4dbe5af3fafc49d94bb",
+    "edition": 40,
+    "date": 1640563299901,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Dreamy Devil"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Ancher Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
